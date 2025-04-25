@@ -11,6 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/CyberSyam007/Threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Brute Force Login Attempt)](https://github.com/CyberSyam007/Brute-Force-Attempt/tree/main)**
 
 <hr/>
 
