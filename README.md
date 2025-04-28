@@ -15,6 +15,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Network Slow Down Incident)](https://github.com/CyberSyam007/Sudden-Network-Slowdown-Incident/blob/main/README.md)**
 - **[Threat Hunting Scenario (Suspicious Data Exfiltration)](https://github.com/CyberSyam007/Data-Exfiltration)**
 - **[Incident Response (Brute Force Attempt on the organization)](https://github.com/CyberSyam007/Brute-Force-Attempt-on-Organization/tree/main)**
+- **[Incident Response (Suspicious Web Request)](https://github.com/CyberSyam007/Suspicious-Web-Request/tree/main)**
 
 <hr/>
 
