@@ -8,7 +8,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Management Program Implementation](https://github.com/CyberSyam007/Vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/CyberSyam007/Programatic-vulnerability-management-powershell-and-bash-)**
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨 Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/CyberSyam007/Threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (Brute Force Login Attempt)](https://github.com/CyberSyam007/Brute-Force-Attempt/tree/main)**
@@ -17,6 +17,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Incident Response (Brute Force Attempt on the organization)](https://github.com/CyberSyam007/Brute-Force-Attempt-on-Organization/tree/main)**
 - **[Incident Response (Suspicious Web Request)](https://github.com/CyberSyam007/Suspicious-Web-Request/tree/main)**
 - **[Incident Response (Impossible Travel)](https://github.com/CyberSyam007/Impossible-travel-alert)**
+- **[Threat Hunting (Ransomware Attack on the organization)](https://github.com/CyberSyam007/Ransomware-Attack/tree/main)**
 
 <hr/>
 
