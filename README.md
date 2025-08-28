@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/CyberSyam007/Vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/CyberSyam007/Programatic-vulnerability-management-powershell-and-bash-)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/CyberSyam007/Programatic-vulnerability-management-powershell-and-bash-/tree/main/Code%20Files%20)**
 
 ## 🚨 Security Operations
 
